@@ -190,3 +190,4 @@ Please refer to [CONTRIBUTING.md](https://github.com/fog/fog/blob/master/CONTRIB
 ## License
 
 Please refer to [LICENSE.md](https://github.com/fog/fog/blob/master/LICENSE.md).
+Created by Jason Scott Heise
